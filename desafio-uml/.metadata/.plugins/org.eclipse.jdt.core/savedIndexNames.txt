@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Gabriel\eclipse-workspace\trilha-java-basico\desafio-uml\.metadata\.plugins\org.eclipse.jdt.core
-3199518938.index
-3413270776.index
-1865797976.index
