@@ -1,0 +1,75 @@
+package br.eugabrieldev.entities;
+
+import br.eugabrieldev.entities.interfaces.IAparelhoTelefone;
+import br.eugabrieldev.entities.interfaces.INavegadorInternet;
+import br.eugabrieldev.entities.interfaces.IReprodutorMusical;
+
+public class Iphone implements IAparelhoTelefone, IReprodutorMusical, INavegadorInternet{
+
+	@Override
+	public boolean conexaoComInternet() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void exibirPaginaWeb() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void adicionarNovaAba() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void atualizarPagina() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void tocar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pausar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void selecionarMusica() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean redeMovelDisponivel() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void ligar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void atender() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void iniciarCorreioVoz() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

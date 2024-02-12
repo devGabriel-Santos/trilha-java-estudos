@@ -1,0 +1,5 @@
+package br.eugabrieldev.entities.interfaces;
+
+public interface INavegadorInternet {
+
+}

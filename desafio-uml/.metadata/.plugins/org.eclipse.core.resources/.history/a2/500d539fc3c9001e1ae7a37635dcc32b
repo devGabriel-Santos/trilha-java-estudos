@@ -1,0 +1,8 @@
+package br.eugabrieldev.entities.contacts;
+
+public class Contact {
+	
+	private String nome;
+	private String numero;
+
+}

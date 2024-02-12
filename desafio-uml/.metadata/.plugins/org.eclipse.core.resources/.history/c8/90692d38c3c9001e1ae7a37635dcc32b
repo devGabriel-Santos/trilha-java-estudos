@@ -1,0 +1,5 @@
+package br.eugabrieldev.entities.contacts;
+
+public class Contact {
+
+}

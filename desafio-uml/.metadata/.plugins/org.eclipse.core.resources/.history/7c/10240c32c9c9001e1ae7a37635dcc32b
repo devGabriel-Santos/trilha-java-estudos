@@ -1,0 +1,16 @@
+package br.eugabrieldev.entities.interfaces;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.eugabrieldev.entities.audio.Musica;
+
+public interface IReprodutorMusical {
+	
+	List<Musica> musicas = new ArrayList<Musica>();
+	
+	void tocar();
+	void pausar();
+	void selecionarMusica();
+
+}

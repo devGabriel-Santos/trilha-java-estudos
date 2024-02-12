@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.audio.Musica"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.contacts.Contact"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.interfaces.IAparelhoTelefone"/>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.interfaces.IReprodutorMusical"/>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.interfaces.INavegadorInternet"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="br.eugabrieldev.entities.Iphone"/>
+    <fullyQualifiedTypeName name="Main"/>
+    <fullyQualifiedTypeName name="javax.sql.rowset.serial.SQLOutputImpl"/>
+</qualifiedTypeNameHistroy>

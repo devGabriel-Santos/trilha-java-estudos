@@ -1,0 +1,16 @@
+package br.eugabrieldev.entities.interfaces;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.eugabrieldev.entities.contacts.Contact;
+
+public interface IAparelhoTelefone {
+	
+	List<Contact> contatos = new ArrayList<Contact>();
+
+	boolean redeMovelDisponivel();
+	void ligar();
+	void atender();
+	void iniciarCorreioVoz();
+}

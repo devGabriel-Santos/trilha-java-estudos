@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+import br.eugabrieldev.entities.Iphone;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Iphone iphone = new Iphone();
+		
+		Scanner sc = new Scanner(System.in);
+		boolean temRede;
+		
+		temRede = sc.nextBoolean();
+		
+		temRede = iphone.redeMovelDisponivel();
+		
+		
+		sc.close();
+	}
+}
